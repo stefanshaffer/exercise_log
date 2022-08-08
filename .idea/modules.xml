@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/exercise_log.iml" filepath="$PROJECT_DIR$/.idea/exercise_log.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/code_snippets/Python/Flask_Blog/snippets/.idea/snippets.iml" filepath="$USER_HOME$/Documents/code_snippets/Python/Flask_Blog/snippets/.idea/snippets.iml" />
     </modules>
   </component>
 </project>
