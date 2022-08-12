@@ -15,8 +15,10 @@ posts = [
     {
         'author': 'Stefan',
         'title': 'Learning Python 2',
-        'content': 'I am still learning python.  This is some content.  This is some more content.',
-        'date_posted': 'April, 21st, 2022'
+        'content': 'I learned about f strings today and that they are useful for refrencing a class or variable '
+                   'inside of a string.  I learned that flask has a lot of built-in functionality like the forms, '
+                   'validators and flash messages.',
+        'date_posted': 'August, 9th, 2022'
     }
 ]
 
